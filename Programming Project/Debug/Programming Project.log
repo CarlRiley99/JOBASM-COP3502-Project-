@@ -1,0 +1,21 @@
+﻿  ChaseEnemy.cpp
+c:\users\carlriley\visual studio\repos\programming 2 game project\programming project\chaseenemy.cpp(71): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\carlriley\visual studio\repos\programming 2 game project\programming project\chaseenemy.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\carlriley\visual studio\repos\programming 2 game project\programming project\chaseenemy.cpp(83): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\carlriley\visual studio\repos\programming 2 game project\programming project\chaseenemy.cpp(91): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\carlriley\visual studio\repos\programming 2 game project\programming project\chaseenemy.cpp(103): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\carlriley\visual studio\repos\programming 2 game project\programming project\chaseenemy.cpp(111): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\carlriley\visual studio\repos\programming 2 game project\programming project\chaseenemy.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\carlriley\visual studio\repos\programming 2 game project\programming project\chaseenemy.cpp(178): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\carlriley\visual studio\repos\programming 2 game project\programming project\chaseenemy.cpp(185): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\carlriley\visual studio\repos\programming 2 game project\programming project\chaseenemy.cpp(188): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Player.cpp
+  Map.cpp
+  Game.cpp
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'C:\Users\CarlRiley\Visual Studio\repos\Programming 2 Game Project\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'C:\Users\CarlRiley\Visual Studio\repos\Programming 2 Game Project\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'C:\Users\CarlRiley\Visual Studio\repos\Programming 2 Game Project\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'C:\Users\CarlRiley\Visual Studio\repos\Programming 2 Game Project\Debug\SOIL.pdb'; linking object as if no debug info
+  Programming Project.vcxproj -> C:\Users\CarlRiley\Visual Studio\repos\Programming 2 Game Project\Debug\Programming Project.exe
